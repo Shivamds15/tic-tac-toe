@@ -117,16 +117,20 @@ const enableBoxes = () => {
 };
 
 const resetGame = () => {
-  enableBoxes();
-  turnO = true;
-  drawcount = 0;
-  resetbtn.disabled = true;
-  msgcontainer.classList.add("hide");
   startScreen.classList.remove("hide");
   gameContainer.classList.add("hide");
+  resetbox();
 };
 
-resetbtn.addEventListener("click", resetGame);
+const resetbox = () => {
+  enableBoxes();
+  turnO = true ;
+  drawcount = 0;
+  resetbtn.disabled = true;
+  msgcontainer.classList.add("hide"); 
+}
+
+resetbtn.addEventListener("click", resetbox);
 
 newbtn.addEventListener("click", () => {
   confirmBox.style.display = "block";
