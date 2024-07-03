@@ -4,9 +4,9 @@ A simple Tic Tac Toe game implemented in HTML, CSS, and JavaScript.
 
 ## Overview
 
-This project is a browser-based Tic Tac Toe game where players can play against each other or against the computer. It includes basic features such as win detection, draw detection, and game reset options.
+This project is a browser-based Tic Tac Toe game where players can play against each other as 1 vs 1 or against the 1 VS COMPUTER. It includes basic features such as win detection, draw detection, and game reset options.
 
-![Tic Tac Toe Screenshot](screenshot.png)
+![Tic Tac Toe Screenshot](./image/bg.jpg)
 
 ## Features
 
@@ -22,6 +22,11 @@ This project is a browser-based Tic Tac Toe game where players can play against 
 - JavaScript
 
 ## How to Play
+
+- Visit My Gitub Hosted Website and Play :
+wdd
+
+OR
 
 1. Clone the repository: `git clone https://github.com/your-username/tic-tac-toe.git`
 2. Open `index.html` in your web browser.
