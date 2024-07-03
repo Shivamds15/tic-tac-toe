@@ -24,7 +24,7 @@ This project is a browser-based Tic Tac Toe game where players can play against 
 ## How to Play
 
 - Visit My Gitub Hosted Website and Play :
-(https://shivamds15.github.io/tic-tac-toe-1vs1-comp/)
+[Play Tic-Tac-Toe](https://shivamds15.github.io/tic-tac-toe-1vs1-comp/)
 
 OR
 
